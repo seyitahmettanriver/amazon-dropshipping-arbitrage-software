@@ -2,7 +2,7 @@
 
 🌐 **Seamless Integration with All Amazon Marketplaces**
 
-Explore and integrate with Amazon marketplaces worldwide, effortlessly.
+This project provides a comprehensive solution for seamless integration with all Amazon marketplaces (.com, .ca, .jp, .com.tr, etc.).
 
 ## Overview
 
