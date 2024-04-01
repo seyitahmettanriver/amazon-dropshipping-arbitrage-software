@@ -1,4 +1,4 @@
-# Amazon Explorer
+# ASIN Query
 
 🌐 **Seamless Integration with All Amazon Marketplaces**
 
